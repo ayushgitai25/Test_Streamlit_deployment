@@ -13,3 +13,5 @@ langchain-groq==0.3.8
 wikipedia
 arxiv
 duckduckgo-search
+ddgs
+
